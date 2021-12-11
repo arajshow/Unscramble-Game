@@ -8,6 +8,9 @@ to make a word using all the letters from the displayed scrambled word.
 
 This is basically pr-written code for learning Architecture components.
 
+# Screenshots
+ <img src= "https://github.com/arajshow/Unscramble-App/blob/master/Screenshot_2.jpg" height=500>&nbsp;&nbsp;
+<img src= "https://github.com/arajshow/Unscramble-App/blob/master/Screenshot_1.jpg" height=500>
 
 
 
