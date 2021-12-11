@@ -12,5 +12,7 @@ This is basically codelab for learning Architecture components.
  <img src= "https://github.com/arajshow/Unscramble-App/blob/master/Screenshot_2.jpg" height=500>&nbsp;&nbsp;
 <img src= "https://github.com/arajshow/Unscramble-App/blob/master/Screenshot_1.jpg" height=500>
 
+correct unscramble word of above ss is "grow"
+
 
 
